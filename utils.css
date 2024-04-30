@@ -1,0 +1,105 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: rgb(163, 215, 124);
+}
+.max-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.item-center{
+align-items: center;
+}
+
+.justify-between{
+justify-content: space-between;
+}
+
+.justify-centre{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.font-bold{
+    font-weight: bolder;
+}
+
+.topleft{
+   padding: 13px 0;
+    width: 50%;
+}
+
+.topright{
+    width: 50%;
+}
+
+.section1{
+    max-height: 100vh;
+}
+
+
+.section1 h1{
+    font-size: 2rem;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color:rgb(60, 36, 242) 
+}
+
+.btn{
+    padding: 9px 12px;
+    border: 4px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(13, 22, 206);;
+}
+
+
+.food{
+width: 199px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+ .topright .weater{
+height: 433px;
+width: 654px;
+}
+
+.btn{
+    padding:7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(227 74 56);;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
